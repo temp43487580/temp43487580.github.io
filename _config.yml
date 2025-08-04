@@ -19,8 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Random thoughts
 twitter_username: temp43487580
 github_username: temp43487580
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: default
 search: true
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
