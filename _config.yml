@@ -104,3 +104,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-Z2RQ7T5SER"
+    anonymize_ip: true
